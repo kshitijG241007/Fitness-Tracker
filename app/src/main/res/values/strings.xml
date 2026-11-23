@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FitTrack</string>
+    <string name="home_nav_label">Home</string>
+    <string name="activity_nav_label">Activity</string>
+    <string name="journal_nav_label">Journal</string>
+    <string name="progress_nav_label">Progress</string>
+    <string name="profile_goals_title">Profile &amp; Goals</string>
+    <string name="settings_title">Settings</string>
+    <string name="reminder_channel_name">Daily Fitness Reminders</string>
+    <string name="reminder_channel_description">Encouraging daily nudges to reach your step and workout goals</string>
+    <string name="reminder_notification_title">Keep Moving with FitTrack</string>
+    <string name="reminder_notification_body">Check today\'s steps and log a quick workout to stay on your streak!</string>
+</resources>

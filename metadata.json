@@ -1,0 +1,6 @@
+{
+  "name": "FitTrack",
+  "description": "Personal fitness and activity tracker with step counting, workout timer, journal, progress charts, and goal tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
